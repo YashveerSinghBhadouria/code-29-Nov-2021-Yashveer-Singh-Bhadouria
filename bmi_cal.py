@@ -29,7 +29,7 @@ def process_data(data):
     return valid_data
 
 def update_csv(data):
-    with open('BMI_Calculated_Height_Weight.csv', 'w',newline='') as file:
+    with open('bmi_calculated_height_weight.csv', 'w',newline='') as file:
         csv_data = csv.writer(file, delimiter=',')
         csv_data.writerow(['Gender', 'Height', 'Weight', 'BMI category', 'BMI range', 'Health risk'])
         for row in data:
