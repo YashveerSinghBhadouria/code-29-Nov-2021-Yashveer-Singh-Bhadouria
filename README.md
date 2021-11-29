@@ -7,7 +7,7 @@
     BMI(kg/m2) = mass(kg) / height(m)2
 
 ### BMI comparison and Health risk:
-    ![Screenshot](Screenshot(13).png)
+![Screeshot](Screenshot(13).png)
 
 ## Run the File
 
