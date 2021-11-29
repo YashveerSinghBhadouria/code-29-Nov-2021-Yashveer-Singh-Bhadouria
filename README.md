@@ -19,3 +19,4 @@
 
         python -m unittest bmi_test.py
 
+The Output generated is in BMI_Calculated_Height_Weight.csv file and further operation can be performed over it.
